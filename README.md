@@ -53,7 +53,7 @@ bottom).
 
 
 
-[https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases](https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases)https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases
+Boo (https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases)https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases
 
 
 
