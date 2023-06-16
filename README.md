@@ -1,17 +1,16 @@
 # Volcaddons
-kuudra mod hypixel skyblock utilities 
+kuudra mod for hypixel skyblock with many utilities and qol features
 
-General
+Cooldown Skip
 
-Hub
+Waypoints for where to stand
 
-Crimson isles
+Kuudra Help
 
-Kuudra
 
-Garden
 
-Rift
+
+
 
 
 
