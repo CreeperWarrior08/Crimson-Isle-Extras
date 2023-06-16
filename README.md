@@ -14,7 +14,7 @@ Fairy soul waypoints
 +many more
 
 # /CIE to open config and change settings
-https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases
+(https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases)
 
 # Getting Started
 
@@ -53,7 +53,7 @@ bottom).
 
 
 
-
+[https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases](https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases)https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases
 
 
 
