@@ -14,7 +14,6 @@ Fairy soul waypoints
 +many more
 
 # /CIE to open config and change settings
-(https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases)
 
 # Getting Started
 
@@ -35,7 +34,7 @@ bottom).
 
 # Installing the CrimsonIsleExtras mod
 
-1 Download the latest mod release. If it says this file may harm your computer, click allow anyways as all java files will be flagged by Chrome.
+1 Download the latest mod [release](https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases). If it says this file may harm your computer, click allow anyways as all java files will be flagged by Chrome.
 
 2 Add the NEU mod:
 
@@ -52,9 +51,6 @@ bottom).
 
 
 
-
-
-[https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases](Nigsgs)https://github.com/CreeperWarrior08/Crimson-Isle-Extras/releases
 
 
 
